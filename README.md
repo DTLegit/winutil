@@ -4,6 +4,10 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/ChrisTitusTech/winutil/winutil.ps1?label=Total%20Downloads&style=for-the-badge)
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/RUbZUZyByQ?theme=default-inverted&style=for-the-badge)](https://discord.gg/RUbZUZyByQ)
 
+**NOTE: This is NOT the official GitHub Repository for Chris Titus Tech's WinUtil. This is just for submitting some eventual PR's that are going to be made into the mainline version of WinUtil.**
+
+**Don't use this repository!!! This is for private testing purposes ONLY!**
+
 This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky about any contributions to keep this project clean and efficient.
 
 ![screen-install](./docs/assets/Title-Screen.png)
